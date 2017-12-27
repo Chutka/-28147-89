@@ -1,0 +1,9 @@
+﻿  Course.cpp
+c:\users\myfriend\desktop\studing\5 семестр\систем. программ\course\course\course.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\myfriend\desktop\studing\5 семестр\систем. программ\course\course\course.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\myfriend\desktop\studing\5 семестр\систем. программ\course\course\course.cpp(231): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\myfriend\desktop\studing\5 семестр\систем. программ\course\course\course.cpp(45): warning C4101: input_file: неиспользованная локальная переменная
+c:\users\myfriend\desktop\studing\5 семестр\систем. программ\course\course\course.cpp(45): warning C4101: output_file: неиспользованная локальная переменная
+c:\users\myfriend\desktop\studing\5 семестр\систем. программ\course\course\course.cpp(69): warning C4101: buff: неиспользованная локальная переменная
+  Course.vcxproj -> C:\Users\MyFriend\Desktop\Studing\5 семестр\систем. Программ\Course\Debug\Course.exe
+  Course.vcxproj -> C:\Users\MyFriend\Desktop\Studing\5 семестр\систем. Программ\Course\Debug\Course.pdb (Partial PDB)
